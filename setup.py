@@ -13,7 +13,7 @@ setup(
     description='A Django package that automatically converts src and href attributes in HTML templates to Django\'s static template tags, making it easier to manage static files efficiently.',
     long_description=long_description,  # Add long description from README.md
     long_description_content_type="text/markdown",  # Set the content type for the long description
-    url="https://github.com/pezhman-najafi, https://github.com/sahel-shiravand ",  # Replace with your actual GitHub repository
+    url="https://github.com/pezhman-najafie, https://github.com/sahel-shiravand ",  # Replace with your actual GitHub repository
     classifiers=[
         'Framework :: Django',
         'Programming Language :: Python :: 3',
