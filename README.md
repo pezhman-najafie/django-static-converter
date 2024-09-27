@@ -84,7 +84,7 @@ FileNotFoundError: If the input files cannot be found or accessed.
 
 ## Authors
 
-- [Pezhman Najafi](https://github.com/pezhman-najafi)
+- [Pezhman Najafi](https://github.com/pezhman-najafie)
 - [Sahel Shiravand](https://github.com/sahel-shiravand)
 
 --- 
